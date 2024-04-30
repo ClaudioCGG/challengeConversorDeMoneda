@@ -2,7 +2,7 @@
 ---
 
 __Descripción de su proyecto:__
-**_Corresponde al Challege Alura conversor de las Monedas ARS, BRL y COP a dolar y viceversa;_**
+**_Corresponde al Challege Alura conversor de las Monedas ARS, BRL y COP a dolar y viceversa; el mismo funciona por la consola._**
 
 ---
 
