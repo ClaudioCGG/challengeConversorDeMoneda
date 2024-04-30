@@ -9,10 +9,10 @@ __Descripción:__
 __Funcionalidades:__
 Te permite seleccionar en diferente opciones de conversión de acuerdo al tipo de cambio seleccionado, tomando la info de cotizacion de la API AExchangeRate-API.
 
-USD = Dollar estadounidense
-ARS = Peso argentino
-BRL = Real brasileño
-COP = Peso colombiano
+- USD = Dollar estadounidense
+- ARS = Peso argentino
+- BRL = Real brasileño
+- COP = Peso colombiano
 
 Opciones de conversión de moneda:
 
