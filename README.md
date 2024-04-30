@@ -1,7 +1,7 @@
 # CHALLENGE ALURA: CONVERSOR DE MONEDA
 ---
 
-__Descripción de su proyecto:__
+__Descripción:__
 **_Corresponde al Challege Alura conversor de las Monedas ARS, BRL y COP a dolar y viceversa; el mismo funciona por la consola._**
 
 ---
@@ -9,7 +9,12 @@ __Descripción de su proyecto:__
 __Funcionalidades:__
 Te permite seleccionar en diferente opciones de conversión de acuerdo al tipo de cambio seleccionado, tomando la info de cotizacion de la API AExchangeRate-API.
 
-Seleccione una opción:
+USD = Dollar estadounidense
+ARS = Peso argentino
+BRL = Real brasileño
+COP = Peso colombiano
+
+Opciones de conversión de moneda:
 
 `1. Convertir ARS a USD`
 
